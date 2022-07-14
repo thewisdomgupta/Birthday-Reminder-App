@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d295af96c9abad0392b9379a0d6d1dc",
+    "revision": "2659f2fbaac1c0d8156d1ae19a9dba19",
     "url": "/Birthday-Reminder-App/index.html"
   },
   {
-    "revision": "2fc8837e9ce3dfe2ca27",
+    "revision": "5dab29b1b88bdce1da4e",
     "url": "/Birthday-Reminder-App/static/css/main.2ca271ef.chunk.css"
   },
   {
-    "revision": "8252c03711ed15b4a81a",
-    "url": "/Birthday-Reminder-App/static/js/2.74e3fc11.chunk.js"
+    "revision": "183dc0f11501e4bdb21f",
+    "url": "/Birthday-Reminder-App/static/js/2.c1e0fbac.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Birthday-Reminder-App/static/js/2.74e3fc11.chunk.js.LICENSE.txt"
+    "url": "/Birthday-Reminder-App/static/js/2.c1e0fbac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fc8837e9ce3dfe2ca27",
-    "url": "/Birthday-Reminder-App/static/js/main.19b7030b.chunk.js"
+    "revision": "5dab29b1b88bdce1da4e",
+    "url": "/Birthday-Reminder-App/static/js/main.99fd9e58.chunk.js"
   },
   {
     "revision": "2209d7f48826cd4e597c",
     "url": "/Birthday-Reminder-App/static/js/runtime-main.b0e5b619.js"
+  },
+  {
+    "revision": "2bf6299ca50f50763c4224a09517df53",
+    "url": "/Birthday-Reminder-App/static/media/Jyotsna.2bf6299c.jpg"
   },
   {
     "revision": "a64e46dac5c397cfcb813435df2a5a4e",
