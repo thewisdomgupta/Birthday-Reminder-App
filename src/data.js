@@ -3,6 +3,7 @@ import Nikita from './Images/Nikita.jpg'
 import Supriya from './Images/Supriya.jpg'
 import Vishal from './Images/Vishal.jpg'
 import Jyotsna from './Images/Jyotsna.jpg'
+import Ajinkya from './Images/Ajinkya.jpg'
 export default [
   {
     id: 1,
@@ -40,5 +41,11 @@ export default [
     name: 'Jyotsna',
     age: '27 April',
     image: Jyotsna,
+  },
+  {
+    id: 7,
+    name: 'Ajinkya',
+    age: '29 October',
+    image: Ajinkya,
   },
 ];
