@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Birthday-Reminder-App/static/css/main.2ca271ef.chunk.css",
-    "main.js": "/Birthday-Reminder-App/static/js/main.99fd9e58.chunk.js",
-    "main.js.map": "/Birthday-Reminder-App/static/js/main.99fd9e58.chunk.js.map",
+    "main.js": "/Birthday-Reminder-App/static/js/main.79010a03.chunk.js",
+    "main.js.map": "/Birthday-Reminder-App/static/js/main.79010a03.chunk.js.map",
     "runtime-main.js": "/Birthday-Reminder-App/static/js/runtime-main.b0e5b619.js",
     "runtime-main.js.map": "/Birthday-Reminder-App/static/js/runtime-main.b0e5b619.js.map",
-    "static/js/2.c1e0fbac.chunk.js": "/Birthday-Reminder-App/static/js/2.c1e0fbac.chunk.js",
-    "static/js/2.c1e0fbac.chunk.js.map": "/Birthday-Reminder-App/static/js/2.c1e0fbac.chunk.js.map",
+    "static/js/2.51de4008.chunk.js": "/Birthday-Reminder-App/static/js/2.51de4008.chunk.js",
+    "static/js/2.51de4008.chunk.js.map": "/Birthday-Reminder-App/static/js/2.51de4008.chunk.js.map",
     "index.html": "/Birthday-Reminder-App/index.html",
-    "precache-manifest.0f9e7c78a6d32ab2d583491a1ad069ac.js": "/Birthday-Reminder-App/precache-manifest.0f9e7c78a6d32ab2d583491a1ad069ac.js",
+    "precache-manifest.71d0bf2f8a954e509fdec0b86c7edfbb.js": "/Birthday-Reminder-App/precache-manifest.71d0bf2f8a954e509fdec0b86c7edfbb.js",
     "service-worker.js": "/Birthday-Reminder-App/service-worker.js",
     "static/css/main.2ca271ef.chunk.css.map": "/Birthday-Reminder-App/static/css/main.2ca271ef.chunk.css.map",
-    "static/js/2.c1e0fbac.chunk.js.LICENSE.txt": "/Birthday-Reminder-App/static/js/2.c1e0fbac.chunk.js.LICENSE.txt",
+    "static/js/2.51de4008.chunk.js.LICENSE.txt": "/Birthday-Reminder-App/static/js/2.51de4008.chunk.js.LICENSE.txt",
     "static/media/Jyotsna.jpg": "/Birthday-Reminder-App/static/media/Jyotsna.2bf6299c.jpg",
     "static/media/Nikita.jpg": "/Birthday-Reminder-App/static/media/Nikita.a64e46da.jpg",
     "static/media/Supriya.jpg": "/Birthday-Reminder-App/static/media/Supriya.63eb661a.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b0e5b619.js",
-    "static/js/2.c1e0fbac.chunk.js",
+    "static/js/2.51de4008.chunk.js",
     "static/css/main.2ca271ef.chunk.css",
-    "static/js/main.99fd9e58.chunk.js"
+    "static/js/main.79010a03.chunk.js"
   ]
 }
